@@ -42,9 +42,11 @@ To predict the expected placement package of a student based on their CGPA using
 
 ## How to Run
 1. Clone the repository
-2. Run the Python notebook / script
-3. Enter CGPA value when prompted
-4. Get predicted package
+2. Navigate to the project directory
+3. Install required dependencies
+4. Run all cells
+5. Enter CGPA value when prompted
+6. Get predicted package
 
 ---
 
