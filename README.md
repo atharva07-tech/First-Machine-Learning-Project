@@ -1,6 +1,6 @@
 # First Machine Learning Project – Linear Regression
 
-This is my first Machine Learning project where I implemented **Linear Regression using Gradient Descent ** to predict **placement package based on CGPA**.
+This is my first Machine Learning project where I implemented Linear Regression using Gradient Descent to predict **placement package based on CGPA**.
 
 ---
 
