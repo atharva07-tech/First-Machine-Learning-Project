@@ -13,6 +13,7 @@ To predict the expected placement package of a student based on their CGPA using
 - Feature: CGPA (out of 10)
 - Target: Package (in LPA)
 - Dataset type: Simple numerical dataset for regression
+- link: https://www.kaggle.com/datasets/mayurdalvi/simple-linear-regression-placement-data
 
 ---
 
